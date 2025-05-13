@@ -190,6 +190,8 @@ img {
 
 /* SITE-HEADER */
 .site-header {
+  position: relative;
+  z-index: 50;
   background-color: #fff;
 }
 
